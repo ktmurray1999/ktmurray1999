@@ -1,1 +1,3 @@
-Hello! My name is Keith T. Murray and I am a current undergraduate student at MIT studying **computational neuroscience**:brain:, linguistics, and philosophy. Check out some of my projects involving *deep learning* and *neural circuit modeling*. Please reach out with any questions!
+Hello! My name is Keith Murray and I am a current MEng student at MIT studying Computation and Cognition. Check out some of my projects involving *deep learning*, *dynamical systems*, *neural computation*. I'm particularly proud of the `neural-rules` repo. 
+
+You should also take a peak my website in the bio...
